@@ -1,4 +1,4 @@
-const apikey = "45ab5df9e24578b335b205d10cc7e2d1";
+const apikey = "give your own token key by opening an accout at https://openweathermap.org/";
 
 const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 // const search nire
